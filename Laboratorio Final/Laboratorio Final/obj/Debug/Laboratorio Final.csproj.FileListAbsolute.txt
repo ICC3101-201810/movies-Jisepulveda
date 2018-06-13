@@ -1,0 +1,22 @@
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\bin\Debug\Laboratorio Final.exe.config
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\bin\Debug\Laboratorio Final.exe
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\bin\Debug\Laboratorio Final.pdb
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio Final.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio_Final.Form1.resources
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio_Final.Properties.Resources.resources
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio Final.csproj.GenerateResource.Cache
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio Final.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio Final.exe
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio Final.pdb
+C:\Users\ING\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio_Final.Ventana_Principal.resources
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\bin\Debug\Laboratorio Final.exe.config
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\bin\Debug\Laboratorio Final.exe
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\bin\Debug\Laboratorio Final.pdb
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio Final.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio_Final.Form1.resources
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio_Final.Properties.Resources.resources
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio_Final.Ventana_Principal.resources
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio Final.csproj.GenerateResource.cache
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio Final.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio Final.exe
+C:\Users\Javier\Desktop\Laboratorio Final\Laboratorio Final\obj\Debug\Laboratorio Final.pdb
